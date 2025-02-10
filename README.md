@@ -1,5 +1,5 @@
 # Agricultural Distribution of India Dashboard
-![Land_Dist_Dashboard]https://github.com/akshitagadiparthi/Land_Dist_Dashboard/blob/main/Dashboard.png
+![Land_Dist_Dashboard] https://github.com/akshitagadiparthi/Land_Dist_Dashboard/blob/main/Dashboard.png
 
 
 ## **Link to the Project**
